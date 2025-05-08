@@ -1,5 +1,7 @@
 # 🧠 NeuraChat – Scalable LLM-Powered Conversational AI
 
+Note: The source code for this project has been made private intentionally.
+
 > **Empowering intelligent conversations with fine-tuned LLMs and scalable microservices.**
 
 ---
